@@ -4,6 +4,7 @@ third_party/
 configs/
 manifests/
 outputs/
+.bundle_metadata/
 **/__pycache__/
 *.py[cod]
 *.pt
